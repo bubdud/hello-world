@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-(terrible) experiments from a terrible programmer
+If you're reading this while not being me, you're weird...
