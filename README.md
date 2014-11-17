@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-(terrible) experiments from a terrible programmer
+If you're reading this while not being me, you're weird... 
+Also, I forgot to add a commit comment :(
